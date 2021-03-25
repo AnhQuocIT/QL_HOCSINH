@@ -1,1 +1,1 @@
-# QL_HOCSINH
+# Student Management used C#
